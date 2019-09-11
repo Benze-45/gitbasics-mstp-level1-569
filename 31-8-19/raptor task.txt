@@ -1,0 +1,322 @@
+kvsw7@kvsw7-PC MINGW64 ~
+$
+
+kvsw7@kvsw7-PC MINGW64 ~
+$ cd ..
+
+kvsw7@kvsw7-PC MINGW64 /c/Users
+$ cd desktop
+bash: cd: desktop: No such file or directory
+
+kvsw7@kvsw7-PC MINGW64 /c/Users
+$ cd -
+/c/Users/kvsw7
+
+kvsw7@kvsw7-PC MINGW64 ~
+$ cd desktop
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop (master)
+$ ls
+ 111/
+'2019 EAMCET SVU.xlsx'
+ 520/
+ apssdc/
+ AutoCAD_2016_English_Win_64bit_dlm/
+ bitmash.txt
+'COUNSELLING -DATA (1).xlsx'
+'Crack Spro2007-V8i'/
+ CSE/
+ cse.java
+ D/
+ desktop.ini
+ download.jpg
+ EAadhaar_538938097843_08072019124247_744531.pdf
+'Eamcet codes.docx'
+'EAMCET FINAL ALLOTMENT.xlsx'
+ EEE-sliptest-unit-1-2019-II-I,III-I,IV-I.xlsx
+'EG (UNIT-1) WW20190724_13010785.pdf'
+ EG-UNIT-120190720_09370104.pdf
+ EG-UNIT-2A20190720_09381858.pdf
+ EG-UNIT-2B20190720_09401618.pdf
+'EG-UNIT-320190720_09410850 (1).pdf'
+ EG-UNIT-320190720_09410850.pdf
+ EG-UNIT-3E120190720_09434761.pdf
+'EG-UNIT-3E20190720_09430657 (1).pdf'
+ EG-UNIT-3E20190720_09430657.pdf
+'EG-UNIT-420190720_09415740 (1).pdf'
+ EG-UNIT-420190720_09415740.pdf
+ fari/
+ fari.txt
+ FARIHA/
+ fariha.github.txt
+ fariha.txt
+ file/
+'Git-2.23.0-64-bit (1).exe'*
+ gitbasics/
+ github.fari.txt
+ githubf.txt
+ helloworld.c
+'I B.Tech., I SEMESTER-2018-19 -NEW TIME TABLES VEERESH.docx'
+ IMG-20190821-WA0002.jpg
+ IMG-20190821-WA0003.jpg
+'INDIVDUAL NEW TIME TABLE123.docx'
+ jdk-8u191-windows-x64.exe*
+'JULY  Attedance 4-2,3-2,2-2 individual 2019-2020.xlsx'
+'KISHORE SIR ALL DATA.xlsx'
+ kvsw1.pem
+ LJM1005_Full_Solution.exe*
+ Mstp/
+'New folder'/
+'New Microsoft Office Word Document (2).docx'
+'New Microsoft Office Word Document.docx'
+'New Text Document.txt'
+'Opera Browser.lnk'*
+ OperaSetup.exe*
+'OS Slip Test QP.doc'
+ potentiometry.docx
+ pr/
+'printer 1005'/
+'raptor files'/
+ raptor2016.msi
+'REVIT . 8'/
+'sc st data jabeen.xlsx'
+'Scan To.lnk'*
+ SERVICE.ppk
+'Slip Test QP format stld.doc'
+ soni.rar
+'Staad_V8i for 64bit'/
+ Str2.cod
+ Str2.ed.Backup
+ sujitha/
+ THAMHINA/
+ unit_3_Petrology.pdf
+'uTorrent Web.lnk'*
+ VEDHAVATHI.pdf
+'version control.pdf'
+ versioncontrol/
+ Wasiha/
+ Wasiha.rar
+'work flow of version.txt'
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop (master)
+$ git -a
+unknown option: -a
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop (master)
+$ ls
+ 111/
+'2019 EAMCET SVU.xlsx'
+ 520/
+ apssdc/
+ AutoCAD_2016_English_Win_64bit_dlm/
+ bitmash.txt
+'COUNSELLING -DATA (1).xlsx'
+'Crack Spro2007-V8i'/
+ CSE/
+ cse.java
+ D/
+ desktop.ini
+ download.jpg
+ EAadhaar_538938097843_08072019124247_744531.pdf
+'Eamcet codes.docx'
+'EAMCET FINAL ALLOTMENT.xlsx'
+ EEE-sliptest-unit-1-2019-II-I,III-I,IV-I.xlsx
+'EG (UNIT-1) WW20190724_13010785.pdf'
+ EG-UNIT-120190720_09370104.pdf
+ EG-UNIT-2A20190720_09381858.pdf
+ EG-UNIT-2B20190720_09401618.pdf
+'EG-UNIT-320190720_09410850 (1).pdf'
+ EG-UNIT-320190720_09410850.pdf
+ EG-UNIT-3E120190720_09434761.pdf
+'EG-UNIT-3E20190720_09430657 (1).pdf'
+ EG-UNIT-3E20190720_09430657.pdf
+'EG-UNIT-420190720_09415740 (1).pdf'
+ EG-UNIT-420190720_09415740.pdf
+ fari/
+ fari.txt
+ FARIHA/
+ fariha.github.txt
+ fariha.txt
+ file/
+'Git-2.23.0-64-bit (1).exe'*
+ gitbasics/
+ github.fari.txt
+ githubf.txt
+ helloworld.c
+'I B.Tech., I SEMESTER-2018-19 -NEW TIME TABLES VEERESH.docx'
+ IMG-20190821-WA0002.jpg
+ IMG-20190821-WA0003.jpg
+'INDIVDUAL NEW TIME TABLE123.docx'
+ jdk-8u191-windows-x64.exe*
+'JULY  Attedance 4-2,3-2,2-2 individual 2019-2020.xlsx'
+'KISHORE SIR ALL DATA.xlsx'
+ kvsw1.pem
+ LJM1005_Full_Solution.exe*
+ Mstp/
+'New folder'/
+'New Microsoft Office Word Document (2).docx'
+'New Microsoft Office Word Document.docx'
+'New Text Document.txt'
+'Opera Browser.lnk'*
+ OperaSetup.exe*
+'OS Slip Test QP.doc'
+ potentiometry.docx
+ pr/
+'printer 1005'/
+ raptor2016.msi
+ raptorfiles/
+'REVIT . 8'/
+'sc st data jabeen.xlsx'
+'Scan To.lnk'*
+ SERVICE.ppk
+'Slip Test QP format stld.doc'
+ soni.rar
+'Staad_V8i for 64bit'/
+ Str2.cod
+ Str2.ed.Backup
+ sujitha/
+ THAMHINA/
+ unit_3_Petrology.pdf
+'uTorrent Web.lnk'*
+ VEDHAVATHI.pdf
+'version control.pdf'
+ versioncontrol/
+ Wasiha/
+ Wasiha.rar
+'work flow of version.txt'
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop (master)
+$ cd raptorfiles
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ ls
+ addition.rap        'input to output.rap'  'power value.rap'   task.rap
+'even-odd task.rap'   multiplication.rap     selection.rap
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git init
+Initialized empty Git repository in C:/Users/kvsw7/Desktop/raptorfiles/.git/
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        addition.rap
+        even-odd task.rap
+        input to output.rap
+        multiplication.rap
+        power value.rap
+        selection.rap
+        task.rap
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git add *
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git config user.name "Benze-45"
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git config user.email "tabassum569fari@gmail.com
+> git config user.email "tabassum569fari@gmail.com"
+> git config user.email "tabassum569fari@gmail.com
+git config user.email "tabassum569fari@gmail.com"
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git remote add remote raptorfiles https://github.com/Benze-45/gitbasics3
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git commit -m "checking"
+[master (root-commit) f3d03af] checking
+ 7 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 addition.rap
+ create mode 100644 even-odd task.rap
+ create mode 100644 input to output.rap
+ create mode 100644 multiplication.rap
+ create mode 100644 power value.rap
+ create mode 100644 selection.rap
+ create mode 100644 task.rap
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git push -u gitbasics3 master
+fatal: 'gitbasics3' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git push -u gitbasics master
+fatal: 'gitbasics' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git push -u raptorfiles master
+fatal: 'raptorfiles' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git remote add raptorfiles https://github.com/Benze-45/gitbasics3
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git commit -m "checking"
+On branch master
+nothing to commit, working tree clean
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git push -u gitbasics3 master
+fatal: 'gitbasics3' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git push -u raptorfiles master
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 6.77 KiB | 3.38 MiB/s, done.
+Total 9 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas: 100% (5/5), done.
+To https://github.com/Benze-45/gitbasics3
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'raptorfiles'.
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$ git status
+On branch master
+Your branch is up to date with 'raptorfiles/master'.
+
+nothing to commit, working tree clean
+
+kvsw7@kvsw7-PC MINGW64 ~/desktop/raptorfiles (master)
+$
